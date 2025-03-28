@@ -175,52 +175,6 @@ void pattern10(int n){
     }
 }
 
-void pattern11(){
-
-
-}
-
-void pattern12(){
-
-}
-
-void pattern13(){
-
-}
-
-void pattern14(){
-
-}
-
-void pattern15(){
-
-
-}
-
-void patttern16(){
-
-}
-
-void pattern17(){
-
-
-}
-
-void pattern18(){
-
-
-}
-
-void pattern19(){
-
-
-}
-
-void pattern20(){
-
-
-}
-
 
 
 
