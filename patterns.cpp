@@ -179,6 +179,7 @@ void pattern10(int n){
 
 
 
+
 int main(int argc, char const *argv[])
 {   
     
